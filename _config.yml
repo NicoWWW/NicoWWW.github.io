@@ -1,13 +1,14 @@
 # Site settings
-title: Game Developer
-email: your-email@domain.com
+title: Nicole Wang
+email: wangnico@usc.edu
 description: > # keep this and put description below
-  Programmer and Designer
-url: "https://yourdomain.com" # the base hostname & protocol for your site
-linkedin_url: "https://www.linkedin.com/in/gamingportfolio"
-github_username: gamingportfolio
-twitter_username: gamingportfolio
-footer_text: "This site uses <a href='https://github.com/gamingportfolio/urban-theme-portfolio'>urban-theme (portfolio)</a>."
+  Hello Wolrd!
+  I am Nicole Wang. I am also known by my Chinese name Rui Wang.
+  I am a junior double majoring in Computer Science Games and Applied Mathematics at Univerity of Southern California.
+  More fun facts about me~ I have over 15 years of drawing experience and have stayed in an art studio for 5 years. But currently, I focus on anime-related creations for most of time. 
+url: "https://NicoWWW.com" # the base hostname & protocol for your site
+linkedin_url: "https://www.linkedin.com/in/rui-nicole-wang-628543293/"
+footer_text: "Hello World."
 
 # Build settings
 markdown: kramdown
