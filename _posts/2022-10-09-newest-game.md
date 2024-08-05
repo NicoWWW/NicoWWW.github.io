@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Newest Game"
-summary: "Lead Programmer and Designer"
-date:   2022-10-09 15:39:40
+title:  "Art House"
+summary: "Character Artist"
+date:   2024-06-09 
 preview: /assets/postpreview.png
 ---
 
