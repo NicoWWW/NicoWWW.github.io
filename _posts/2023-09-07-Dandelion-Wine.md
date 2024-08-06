@@ -31,16 +31,22 @@ We utilized Zibra Liquids from the Unity Asset Store to create the main water bl
     Liquid Simulation in Development Testing
 </p>
 
-Liquid Simulation in Development Testing
-
 <div style="text-align: center;">
-         <img width="600" src="/assets/Dandelion_Wine/DW_liquid2_gif.gif">
+         <img width="800" src="/assets/Dandelion_Wine/DW_liquid2_gif.gif">
 </div>
 
-Liquid Simulation in Live Demonstration of *Dandelion Wine*
+<p style="text-align: center;">
+    Liquid Simulation in Live Demonstration of <i>Dandelion Wine</i>
+</p>
 
+<p style="text-align: center;">
+    
+</p>
 
 ![Picture 2](/assets/Dandelion_Wine/DW_older2.png)
 
 ![Picture 3](/assets/Dandelion_Wine/DW_older3.png)
-A showcase of my lighting work and environment props placement. However, Due to changes in gameplay mechanics and narrative direction later in development, these background setups were ultimately discarded.
+
+<p style="text-align: center;">
+    A showcase of my lighting work and environment props placement. However, Due to changes in gameplay mechanics and narrative direction later in development, these background setups were ultimately discarded.
+</p>
