@@ -25,6 +25,13 @@ We utilized Zibra Liquids from the Unity Asset Store to create the main water bl
 
 ![gif 1](/assets/Dandelion_Wine/DW_liquid_gif.gif){:style="display:block; margin-left:auto; margin-right:auto"; alt = "Liquid Simulation in Development Testing"}
 
+<div style="text-align: center;">
+         <img width="600" src="/assets/Dandelion_Wine/DW_liquid_gif.gif">
+</div>
+<!--Centered Image End-->
+***<p style="text-align: center;">Liquid Simulation in Development Testing
+</p>***
+
 Liquid Simulation in Development Testing
 
 ![Video 2](/assets/Dandelion_Wine/DW_liquid2.mov)
