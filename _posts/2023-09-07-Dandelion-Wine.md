@@ -23,20 +23,22 @@ For the best performance of the liquid main character, we need to simulate diffe
 
 We utilized Zibra Liquids from the Unity Asset Store to create the main water blob effect. Additionally, we employed various Force Fields with differing strengths and directions to simulate tension forces, achieving a realistic squashing and stretching effect. While Zibra Liquid offers inline controls for adjusting viscosity, density, and metalness of the liquid, I further enhanced the visual appeal by incorporating environmental lighting. These lights were strategically placed to reflect off the blob, imparting a glossy texture reminiscent of wine, which enriched and heightened the realism of the expansive background environments.
 
-![gif 1](/assets/Dandelion_Wine/DW_liquid_gif.gif){:style="display:block; margin-left:auto; margin-right:auto"; alt = "Liquid Simulation in Development Testing"}
-
 <div style="text-align: center;">
-         <img width="600" src="/assets/Dandelion_Wine/DW_liquid_gif.gif">
+         <img width="800" src="/assets/Dandelion_Wine/DW_liquid_gif.gif">
 </div>
-<!--Centered Image End-->
-***<p style="text-align: center;">Liquid Simulation in Development Testing
-</p>***
+
+<p style="text-align: center;">
+    Liquid Simulation in Development Testing
+</p>
 
 Liquid Simulation in Development Testing
 
-![Video 2](/assets/Dandelion_Wine/DW_liquid2.mov)
+<div style="text-align: center;">
+         <img width="600" src="/assets/Dandelion_Wine/DW_liquid2_gif.gif">
+</div>
 
 Liquid Simulation in Live Demonstration of *Dandelion Wine*
+
 
 ![Picture 2](/assets/Dandelion_Wine/DW_older2.png)
 
