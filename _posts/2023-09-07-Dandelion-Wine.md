@@ -3,7 +3,7 @@ layout: post
 title:  "Dandelion Wine"
 summary: "Technical Artist"
 date:   2023-09-07
-preview: /assets/postpreview.png
+preview: /assets/Dandelion_Wine/preview.png
 ---
 
 ![Picture 1](/assets/Dandelion_Wine/DW_front_pic.png)
