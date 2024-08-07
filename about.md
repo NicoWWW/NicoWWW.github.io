@@ -6,6 +6,8 @@ permalink: /about/
 
 ![Picture 1](/assets/fullsize.png)
 
-Hello! I'm Game Developer, an award-winning game developer who can both program and design games. As you can see from my impressive portfolio, I've worked on lots of different games!
+Hello Wolrd!
 
-If you're interested in what I can offer your company, please contact me!
+I am Nicole Wang. I am also known by my Chinese name Rui Wang. I am a junior double majoring in Computer Science Games and Applied Mathematics at Univerity of Southern California.
+
+More fun facts about me~ I have over 15 years of drawing experience and have stayed in an art studio for 5 years. But currently, I focus on anime-related creations for most of time.
