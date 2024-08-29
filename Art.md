@@ -10,7 +10,7 @@ permalink: /art/
 <hr>
 
 <div style="text-align: center;">
-         <img width="800" src="/assets/artwork/IMG_4380.jpg">
+         <img width="800" src="/assets/artwork/IMG_4380.JPG">
 </div>
 
 <p style="text-align: center;">
@@ -41,7 +41,7 @@ These are all works created during my eight years old, when flowers were not flo
 I tried more different painting styles when getting older and went to art studio for professional study. During my five years there, I confirmed my strong interest in expressing my emotions and feelings through pictorial tension by lines. I am fascinated by elaborately carving the outline of people's faces or sketching the passing of clouds through strong or weak stroke of the brush on my hand. Until then, I started to realize that painting has been a kind of muscle memory for me, as I was born for it. 
 
 <div style="text-align: center;">
-         <img width="800" src="/assets/artwork/wine.jpg">
+         <img width="800" src="/assets/artwork/wine.JPG">
 </div>
 
 <p style="text-align: center;">
@@ -49,7 +49,7 @@ I tried more different painting styles when getting older and went to art studio
 </p>
 
 <div style="text-align: center;">
-         <img width="800" src="/assets/artwork/violin.jpg">
+         <img width="800" src="/assets/artwork/violin.JPG">
 </div>
 
 <p style="text-align: center;">
@@ -57,7 +57,7 @@ I tried more different painting styles when getting older and went to art studio
 </p>
 
 <div style="text-align: center;">
-         <img width="800" src="/assets/artwork/girl.png">
+         <img width="800" src="/assets/artwork/girl.PNG">
 </div>
 
 <p style="text-align: center;">
@@ -115,7 +115,7 @@ I belive painting exists for my random but romantic interest, but my interests a
 </p>
 
 <div style="text-align: center;">
-         <img width="800" src="/assets/artwork/rangzuo.png">
+         <img width="800" src="/assets/artwork/jinjiu.png">
 </div>
 
 <p style="text-align: center;">
