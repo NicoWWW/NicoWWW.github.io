@@ -4,8 +4,7 @@ title: "Art World"
 permalink: /art/
 ---
 
->Mom told me that the first time I picked up pencil, I didn't like painting at all. It was five years old. However, I didn't remember it at all either, since it is also hard to tell exactly when or why I started to like painting in my . Ever since I could remember, as long as there is pen and paper besides my hands, I couldn't help to developing dots to lines, lines to spaces, then faces and more.
-
+> Mom once told me that when I first picked up a pencil at the age of five, I wasn’t fond of painting at all. I don’t recall that moment, nor can I pinpoint exactly when or why my feelings about painting changed. What I do remember is that, as long as I could grasp a pen and paper, I was compelled to transform dots into lines, lines into shapes, and shapes into faces and beyond.
 
 <hr>
 
@@ -33,12 +32,11 @@ permalink: /art/
     2015
 </p>
 
-These are all works created during my eight years old, when flowers were not flowers and crowd was not crowd for me. I saw only red road thick with black, yellow or white shapes, like a mass of ants crawling in summer. World was not world; it was art. However, I should not know what art is at that time. 
-
+These works were all created when I was eight years old, a time when flowers weren't really flowers, and crowds weren’t just crowds. To me, the world was a canvas where red roads thickened with black, yellow, or white shapes, resembling a swarm of ants in summer. The world was not merely a place—it was art, even though I couldn't have known what art was at that age.
 
 <hr>
 
-I tried more different painting styles when getting older and went to art studio for professional study. During my five years there, I confirmed my strong interest in expressing my emotions and feelings through pictorial tension by lines. I am fascinated by elaborately carving the outline of people's faces or sketching the passing of clouds through strong or weak stroke of the brush on my hand. Until then, I started to realize that painting has been a kind of muscle memory for me, as I was born for it. 
+As I grew older, I explored various painting styles and studied professionally at an art studio for five years. During that time, I solidified my passion for conveying emotions and feelings through the tension of lines. I became captivated by the intricate process of shaping people’s faces or capturing the movement of clouds with bold or delicate brushstrokes. It was then that I came to understand that painting was more than just an activity for me—it was a deeply ingrained part of who I am, almost like muscle memory.
 
 <div style="text-align: center;">
          <img width="800" src="/assets/artwork/wine.JPG">
@@ -80,7 +78,7 @@ I tried more different painting styles when getting older and went to art studio
     2022
 </p>
 
-I belive painting exists for my random but romantic interest, but my interests are not only there for myself. I would like to use the colorful world created under my pen to bring happiness to others, becoming other more meanings. I hoppe one day, people can appreciate or critize my artworks, but more importantly, they can hear my voice from my strokes kissing the board. I think I will keep drawing forever.
+I believe that painting exists for my spontaneous yet romantic interest, but my passion extends beyond just myself. I aim to use the vibrant worlds created under my pen to bring joy to others, imbuing my work with deeper meaning. I hope that one day people will not only appreciate or critique my artworks but also hear the voice of my strokes that kiss the canvas. I think I will keep drawing forever.
 
 <div style="text-align: center;">
          <img width="800" src="/assets/artwork/rangzuo.png">
@@ -99,7 +97,7 @@ I belive painting exists for my random but romantic interest, but my interests a
 </p>
 
 <div style="text-align: center;">
-         <img width="800" src="/assets/artwork/calendar.png">
+         <img width="800" src="/assets/artwork/Calendar.png">
 </div>
 
 <p style="text-align: center;">
@@ -122,6 +120,12 @@ I belive painting exists for my random but romantic interest, but my interests a
     2023
 </p>
 
+<div style="text-align: center;">
+         <img width="800" src="/assets/artwork/ketou.png">
+</div>
 
+<p style="text-align: center;">
+    2023
+</p>
 
 
