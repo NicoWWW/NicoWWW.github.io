@@ -23,8 +23,7 @@ preview: /assets/Dandelion_Wine/preview.jpg
 * Applied and fine-tuned Zibra Liquids to create liquid simulation as the main player character
 * Created realistic environments and implemented dynamic lighting with fog effects to enhance game realism
 * Partnered closely with art and engineering teams to optimize art assets for performace and troubleshoot game texturing and real-time rendering issues
-
-<hr>
+ 
 
 ### Technical Art Breakdown
 

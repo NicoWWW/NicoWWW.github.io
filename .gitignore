@@ -1,3 +1,8 @@
 _site
 .sass-cache
 .jekyll-cache
+.vs/ProjectSettings.json
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+*.vsidx
+.vs/NicoWWW.github.io/v17/.wsuo
