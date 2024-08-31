@@ -7,7 +7,7 @@ preview: /assets/artwork/CarPreview.png
 ---
 
 <video controls width="800">
-  <source src="/assets/artwork/Car_Moview_Maya.mp4" type="video/mp4">
+  <source src="/assets/artwork/Car_Movie_Maya.mp4" type="video/mp4">
   <source src="video.webm" type="video/webm">
   This browser does not support HTML video.
 </video>
@@ -19,10 +19,8 @@ preview: /assets/artwork/CarPreview.png
 **Year** : 2023
 
 * Modeled the car and props and implemented the skydome 
-
 * Set motion path for car and camera
-
-* Implemented pipeline to support animation production
+* Implemented pipeline to support animation production with Arnold
 
 
 <hr>
