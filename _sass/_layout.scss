@@ -83,3 +83,19 @@
         border: 1px solid $grey-color-light;
     }
 }
+
+.imgContainer {
+    float: left;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full height of the viewport */
+}
+
+
+.container img {
+    margin: 0 10px; /* Space between images */
+}
