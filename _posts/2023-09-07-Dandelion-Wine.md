@@ -51,6 +51,14 @@ We utilized Zibra Liquids from the Unity Asset Store to create the main water bl
     
 </p>
 
+![Picture 4](/assets/Dandelion_Wine/lighting1.png)
+
+![Picture 5](/assets/Dandelion_Wine/lighting2.png)
+
+<p style="text-align: center;">
+    Lighting ane environment rendering for the game.
+</p>
+
 ![Picture 2](/assets/Dandelion_Wine/DW_older2.png)
 
 ![Picture 3](/assets/Dandelion_Wine/DW_older3.png)
