@@ -84,11 +84,8 @@
     }
 }
 
-.imgContainer {
-    float: left;
-}
 
-.container {
+.imgcontainer {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -96,6 +93,6 @@
 }
 
 
-.container img {
+.imgcontainer img {
     margin: 0 10px; /* Space between images */
 }
