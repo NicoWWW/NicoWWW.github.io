@@ -6,6 +6,11 @@ permalink: /about/
 
 ![Picture 1](/assets/fullsize.png)
 
+### Experience Creator
+
+Compared to dressing my Barbie up by picking different beautiful clothes for her, I tended to 
+
+
 Hello Wolrd!
 
 I am Nicole Wang. I am also known by my Chinese name Rui Wang. I am a junior double majoring in Computer Science Games and Applied Mathematics at Univerity of Southern California.
