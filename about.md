@@ -4,7 +4,7 @@ title: "About Me"
 permalink: /about/
 ---
 
-![Picture 1](/assets/profile2.jpg)
+![Picture 1](/assets/profile22.jpg)
 
 ### Experience Crafter
 
