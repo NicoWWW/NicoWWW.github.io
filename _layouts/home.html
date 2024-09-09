@@ -9,13 +9,15 @@
       
       {% include header.html %}
 
-      <div class="container">
-        {% include info.html %}
-		
-		{{ content }}
+        <div class="container">
 
-        {% include footer-home.html %}
-      </div>
+
+            {{ content }}
+
+            {% include info.html %}
+
+            {% include footer-home.html %}
+        </div>
     
     </main>
 
