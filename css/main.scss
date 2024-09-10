@@ -4,9 +4,9 @@
 
 @charset "utf-8";
 
-$color: #000000;
-$color-light: lighten($color, 100%);
-$color-dark:  darken($color, 100%);
+$grey-color: #000000;
+$grey-color-light: lighten($grey-color, 100%);
+$grey-color-dark:  darken($grey-color, 100%);
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
