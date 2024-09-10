@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Racing GMC"
-summary: "Maya Project"
+summary: "Maya"
 date:   2022-12-01
 preview: /assets/artwork/CarPreview.png
 ---

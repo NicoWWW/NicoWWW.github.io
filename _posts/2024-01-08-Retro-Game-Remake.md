@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "ITP380: Retro Games Remake"
-summary: "Individual Course Project"
+title:  "Retro Games Remake"
+summary: "ITP380 Individual Course Project"
 date:   2024-01-08
 preview: /assets/ITP380/ITP380_preview.png
 ---

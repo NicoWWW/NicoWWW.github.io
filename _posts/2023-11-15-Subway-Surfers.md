@@ -18,7 +18,7 @@ preview: /assets/Subway_Surfer/preview.jpg
 
 **Year** : 2023
 
-###My Focus
+### My Focus
 
 * Customize color shader to animate a textured 3D grid with dynamic color and depth effects for enhanced visual depth and interactivity
 
