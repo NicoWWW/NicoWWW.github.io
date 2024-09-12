@@ -3,7 +3,7 @@ layout: post
 title:  "Subway Surfers Remake"
 summary: "ITP382 Individual Course Project"
 date:   2023-11-15
-preview: /assets/Subway_Surfer/preview.jpg
+preview: /assets/Subway_Surfer/preview.png
 ---
 <video controls width="800">
   <source src="/assets/Subway_Surfer/GamePlay.mp4" type="video/mp4">
