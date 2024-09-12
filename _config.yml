@@ -7,6 +7,7 @@ description: > # keep this and put description below
   Artist
 url: "https://NicoWWW.com" # the base hostname & protocol for your site
 linkedin_url: "https://www.linkedin.com/in/rui-nicole-wang-628543293/"
+github_username: "NicoWWW"
 footer_text: "© BY NICOLE WANG 2024."
 
 # Build settings
