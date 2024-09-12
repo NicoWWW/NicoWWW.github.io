@@ -3,10 +3,10 @@ layout: post
 title:  "Dandelion Wine"
 summary: "Technical Artist"
 date:   2024-05-01
-preview: /assets/Dandelion_Wine/DW_preview.png
+preview: /assets/Dandelion_Wine/DW_preview2.jpg
 ---
 
-![Picture 1](/assets/Dandelion_Wine/front-page.jpg)
+![Picture 1](/assets/Dandelion_Wine/DW_preview.png)
 
 *Dandelion Wine* is a Whimsical Slapstick Combat Game for Mobile Audiences, developed in Unity with a 30-person multidisciplinary game team as part of a year-long advanced game project. The game narrative is based on the Roman/Geek mythology, inviting players play as a mischievous glob of wine wreaking havoc at a cult festival, solve puzzles to grow bigger, and build an army of tipsy Winefolk to defeat the ultimate Wine God.
 
