@@ -14,7 +14,7 @@ preview: /assets/others/heightmap_preview.png
 
 <hr>
 
-**Development** : C++, OpenGL Core Profile (3.2+) 
+**Development** : C++, OpenGL Core Profile
 
 **Year** : 2024
 

@@ -13,7 +13,8 @@ preview: /assets/CSCI420/rollerPreview.jpg
 </video>
 
 <hr>
-(3.2+) 
+
+**Development** : C++, OpenGL Core Profile
 
 **Year** : 2024
 
