@@ -18,6 +18,6 @@ preview: /assets/CSCI420/rollerPreview.jpg
 
 **Year** : 2024
 
-* Developed an immersive roller coaster simulation using C++ and OpenGL Core Profile with Catmull-Rom splines to render realistic track curves
-* Implemented multiple shaders, including Phong shading for per-pixel lighting and texture mapping for ground realism, enabling a dynamic first-person camera view
-* Built user controls for interactive "rides" along the track while applying shader-based lighting and texture techniques for enhanced scene fidelity, adhering to modern OpenGL rendering standards
+* Implemented ray tracing algorithms for rendering realistic 3D scenes by C++, including triangle and sphere intersections with Phong shading, antialiasing, and soft shadow
+* Developed shadow raycasting and scene export functionality to visualize lighting interactions and produce high-quality JPEG outputs
+
