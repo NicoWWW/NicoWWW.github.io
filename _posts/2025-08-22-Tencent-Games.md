@@ -5,6 +5,9 @@ date:   2025-08-22
 preview: /assets/LightSpeed_Logo.jpeg
 ---
 
+**Development** : C++, Lua, Unreal, Git
+
+**Year** : 2025 Summer
 
 ## NPC Interaction System
 
