@@ -3,7 +3,7 @@ layout: post
 title:  "3D DX11 Game Engine Development"
 summary: "ITP485 Individual Project"
 date:   2025-04-30 
-preview: /assets/others/ITP485Preview.png
+preview: /assets/others/ITP485PostPreview.png
 ---
 
 <video controls width="800">
