@@ -20,7 +20,7 @@ As part of an advanced game engine architecture course, I designed and implement
 
 <hr>
 
-## Rendering and Core Systems
+# Rendering and Core Systems
 
 I built a SIMD-optimized math library for efficient vector and matrix calculations, which significantly accelerated linear algebra operations critical for rendering and animation. The engineâ€™s rendering pipeline supports textures, materials, and shaders, with a custom caching system to minimize redundant GPU calls and improve frame stability. I also implemented post-processing effects such as Bloom to enhance visual fidelity.
 
@@ -28,13 +28,13 @@ Throughout development, I relied on graphics debuggers provided by Visual Studio
 
 <hr>
 
-## Rendering & Lighting
+# Rendering & Lighting
 Beyond building the base rendering pipeline in DirectX 11, I implemented a lighting system to give scenes more depth and realism.
-# Lighting Models
+## Lighting Models
 * Implemented multiple per-pixel lighting models in HLSL, including Lambert and Phong shading.
 * Added support for normal mapping to simulate fine surface detail under dynamic lighting.
 * Extended the system with rim-lighting and half-Lambert shading, which are useful for stylized effects and non-photorealistic rendering.
-# Light Sources
+## Light Sources
 * Supported point lights and directional lights, with the ability to handle multiple active lights in a scene.
 * Designed a constant buffer layout to pass light parameters (position, color, intensity) efficiently to the GPU.
 
@@ -42,7 +42,7 @@ This work gave the engine the ability to render lit, textured objects with custo
 
 <hr>
 
-## Animation and Inverse Kinematics
+# Animation and Inverse Kinematics
 
 On the animation side, I implemented a complete skinning and blending system to handle skeletal animations and transitions between states. To improve efficiency, I introduced a multithreaded job scheduling system that distributes animation updates across worker threads, reducing CPU bottlenecks during heavy scenes.
 
@@ -50,13 +50,13 @@ I also integrated inverse kinematics (IK) algorithms, which allowed charactersâ€
 
 <hr>
 
-## Multithreaded Job System
+# Multithreaded Job System
 To maximize CPU utilization and reduce frame stalls, I implemented a general-purpose multithreaded job system for the engine. This subsystem distributes work across multiple worker threads and allows heavy tasks to execute in parallel, rather than blocking the main game loop.
-# Architecture:
+## Architecture:
 * A Job Manager oversees a global Job Queue, where lightweight tasks (jobs) are submitted
 * Multiple worker threads continuously pull jobs from the queue, executing them independently
 * The system supports dependencies and synchronization, ensuring that jobs complete in the correct order without race conditions
-# Animation Use Case
+## Animation Use Case
 * Animation: parallelized skinning, blending, and inverse kinematics updates across multiple characters
 * Physics: batched AABB collision checks executed as parallel jobs to speed up scene queries
 * Resource Management: handled background asset loading and cache updates (textures, shaders, materials) without stalling the render thread
