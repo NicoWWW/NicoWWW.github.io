@@ -2,7 +2,7 @@
 layout: post
 title:  "SWE Intern at Tecent Games(LightSpeed Studio)"
 date:   2025-08-22
-preview: /assets/LightSpeed_Logo.jpeg
+preview: /assets/TencentLogo.jpeg
 ---
 
 **Development** : Unreal 5.4(Work with both C++ and Blueprint), Lua, Git

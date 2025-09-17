@@ -3,7 +3,7 @@ layout: post
 title:  "Ray Tracer Development"
 summary: "Individual Project"
 date:   2024-12-01
-preview: /assets/CSCI420/SIGGRAPHWithSS.jpg
+preview: /assets/CSCI420/OpenGLPreview.jpg
 ---
 
 
