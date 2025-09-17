@@ -12,6 +12,6 @@ Since childhood, I have always been inclined to wonder what others are thinking.
 
 <hr>
 
-I am Nicole Wang. I am also known by my Chinese name Rui Wang. I am a junior double majoring in Computer Science Games and Applied Mathematics at Univerity of Southern California. 
+I am Nicole Wang. I am also known by my Chinese name Rui Wang. I am a senior double majoring in Computer Science Games and Applied Mathematics at Univerity of Southern California. 
 
 I am a game developer and artist with a passion for creating fun immersive experiences and telling emotionally rich stories. My favorite games are *The Lengend of Zelda: Breath of the Wild*, *Baldur's Gate 3*, and *What Remains of Edith Finch*. The first game that sparked my interest in gaming was *Mirror's Edge*, while the game that ignited my desire to create games was *Genshin Impact*.
